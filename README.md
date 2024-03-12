@@ -4,7 +4,7 @@
 
 ## [Music Recommendation ML](https://github.com/matheusperches/MusicRecommendation)
 
-#### An experiment using Python and Jupyter Notebook to make music recommendations with Machine Learning.
+#### An experiment using Python with the Jupyter Notebook platform to make music recommendations with Machine Learning.
 
 #### Background
 - This is part of my series of study on Python with Machine Learning, using a small sinthetic dataset of music preferences by age and gender. 
